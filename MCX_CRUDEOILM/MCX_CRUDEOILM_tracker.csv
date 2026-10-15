@@ -1,0 +1,3 @@
+run_name,ticker,symbol,rounding_multiple,index_available,futures_available,lowest_strike,highest_strike,timeframes
+MCX_CRUDEOILM_20261015_183836,CRUDEOILM,CRUDEOILM,50,False,True,6150,10500,5S|1|5|60|D
+MCX_CRUDEOILM_20261015_191456,CRUDEOILM,CRUDEOILM,50,False,True,6150,10500,5S|1|5|60|D
